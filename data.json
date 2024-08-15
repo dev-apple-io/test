@@ -1,0 +1,334 @@
+{
+  "stores": [
+    {
+      "storeName": "Loblaws",
+      "location": "Toronto, ON",
+      "items": [
+        {
+          "itemName": "Milk",
+          "category": "Dairy",
+          "price": 4.99,
+          "availability": true
+        },
+        {
+          "itemName": "Eggs",
+          "category": "Dairy",
+          "price": 3.49,
+          "availability": true
+        },
+        {
+          "itemName": "Chicken Breast",
+          "category": "Meat",
+          "price": 12.99,
+          "availability": true
+        },
+        {
+          "itemName": "Apples",
+          "category": "Fruits",
+          "price": 3.99,
+          "availability": true
+        },
+        {
+          "itemName": "Bananas",
+          "category": "Fruits",
+          "price": 1.29,
+          "availability": true
+        },
+        {
+          "itemName": "Broccoli",
+          "category": "Vegetables",
+          "price": 2.99,
+          "availability": true
+        },
+        {
+          "itemName": "Carrots",
+          "category": "Vegetables",
+          "price": 1.99,
+          "availability": true
+        },
+        {
+          "itemName": "Bread",
+          "category": "Bakery",
+          "price": 2.49,
+          "availability": true
+        },
+        {
+          "itemName": "Butter",
+          "category": "Dairy",
+          "price": 5.99,
+          "availability": true
+        },
+        {
+          "itemName": "Cheddar Cheese",
+          "category": "Dairy",
+          "price": 6.99,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "storeName": "Sobeys",
+      "location": "Ottawa, ON",
+      "items": [
+        {
+          "itemName": "Orange Juice",
+          "category": "Beverages",
+          "price": 3.99,
+          "availability": true
+        },
+        {
+          "itemName": "Ground Beef",
+          "category": "Meat",
+          "price": 10.99,
+          "availability": true
+        },
+        {
+          "itemName": "Tomatoes",
+          "category": "Vegetables",
+          "price": 2.49,
+          "availability": true
+        },
+        {
+          "itemName": "Lettuce",
+          "category": "Vegetables",
+          "price": 1.99,
+          "availability": true
+        },
+        {
+          "itemName": "Potatoes",
+          "category": "Vegetables",
+          "price": 3.49,
+          "availability": true
+        },
+        {
+          "itemName": "Whole Chicken",
+          "category": "Meat",
+          "price": 15.99,
+          "availability": true
+        },
+        {
+          "itemName": "Yogurt",
+          "category": "Dairy",
+          "price": 4.49,
+          "availability": true
+        },
+        {
+          "itemName": "Salmon Fillet",
+          "category": "Seafood",
+          "price": 14.99,
+          "availability": true
+        },
+        {
+          "itemName": "Oatmeal",
+          "category": "Cereals",
+          "price": 3.99,
+          "availability": true
+        },
+        {
+          "itemName": "Pasta",
+          "category": "Pantry",
+          "price": 1.99,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "storeName": "Metro",
+      "location": "Montreal, QC",
+      "items": [
+        {
+          "itemName": "Grapes",
+          "category": "Fruits",
+          "price": 4.99,
+          "availability": true
+        },
+        {
+          "itemName": "Pork Chops",
+          "category": "Meat",
+          "price": 13.99,
+          "availability": true
+        },
+        {
+          "itemName": "Bell Peppers",
+          "category": "Vegetables",
+          "price": 3.99,
+          "availability": true
+        },
+        {
+          "itemName": "Spinach",
+          "category": "Vegetables",
+          "price": 2.99,
+          "availability": true
+        },
+        {
+          "itemName": "Rice",
+          "category": "Pantry",
+          "price": 8.99,
+          "availability": true
+        },
+        {
+          "itemName": "Almonds",
+          "category": "Snacks",
+          "price": 6.49,
+          "availability": true
+        },
+        {
+          "itemName": "Peanut Butter",
+          "category": "Pantry",
+          "price": 3.99,
+          "availability": true
+        },
+        {
+          "itemName": "Ice Cream",
+          "category": "Frozen",
+          "price": 5.99,
+          "availability": true
+        },
+        {
+          "itemName": "Pizza",
+          "category": "Frozen",
+          "price": 7.99,
+          "availability": true
+        },
+        {
+          "itemName": "Ketchup",
+          "category": "Condiments",
+          "price": 2.99,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "storeName": "Walmart",
+      "location": "Vancouver, BC",
+      "items": [
+        {
+          "itemName": "Cereal",
+          "category": "Cereals",
+          "price": 3.49,
+          "availability": true
+        },
+        {
+          "itemName": "Frozen Vegetables",
+          "category": "Frozen",
+          "price": 2.49,
+          "availability": true
+        },
+        {
+          "itemName": "Chicken Thighs",
+          "category": "Meat",
+          "price": 9.99,
+          "availability": true
+        },
+        {
+          "itemName": "Shampoo",
+          "category": "Personal Care",
+          "price": 6.49,
+          "availability": true
+        },
+        {
+          "itemName": "Dish Soap",
+          "category": "Household",
+          "price": 2.99,
+          "availability": true
+        },
+        {
+          "itemName": "Apple Juice",
+          "category": "Beverages",
+          "price": 2.99,
+          "availability": true
+        },
+        {
+          "itemName": "Bacon",
+          "category": "Meat",
+          "price": 7.99,
+          "availability": true
+        },
+        {
+          "itemName": "Canned Tuna",
+          "category": "Pantry",
+          "price": 1.49,
+          "availability": true
+        },
+        {
+          "itemName": "Granola Bars",
+          "category": "Snacks",
+          "price": 2.99,
+          "availability": true
+        },
+        {
+          "itemName": "Paper Towels",
+          "category": "Household",
+          "price": 4.99,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "storeName": "No Frills",
+      "location": "Calgary, AB",
+      "items": [
+        {
+          "itemName": "Tomato Sauce",
+          "category": "Pantry",
+          "price": 1.99,
+          "availability": true
+        },
+        {
+          "itemName": "Eggplant",
+          "category": "Vegetables",
+          "price": 2.49,
+          "availability": true
+        },
+        {
+          "itemName": "Bagels",
+          "category": "Bakery",
+          "price": 3.49,
+          "availability": true
+        },
+        {
+          "itemName": "Greek Yogurt",
+          "category": "Dairy",
+          "price": 5.49,
+          "availability": true
+        },
+        {
+          "itemName": "Frozen Pizza",
+          "category": "Frozen",
+          "price": 6.99,
+          "availability": true
+        },
+        {
+          "itemName": "Butter",
+          "category": "Dairy",
+          "price": 5.99,
+          "availability": true
+        },
+        {
+          "itemName": "Maple Syrup",
+          "category": "Condiments",
+          "price": 8.49,
+          "availability": true
+        },
+        {
+          "itemName": "Chicken Wings",
+          "category": "Meat",
+          "price": 12.99,
+          "availability": true
+        },
+        {
+          "itemName": "Spaghetti",
+          "category": "Pantry",
+          "price": 1.49,
+          "availability": true
+        },
+        {
+          "itemName": "Pancake Mix",
+          "category": "Pantry",
+          "price": 2.99,
+          "availability": true
+        }
+      ]
+    }
+  ]
+}
